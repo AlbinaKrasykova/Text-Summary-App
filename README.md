@@ -3,7 +3,7 @@
 
 Text Summary App with Flask, I have implemented Vectorization with Tf-Idf, created folder tampletes with a index.html (contains front end design files), Flask file with a back end, 
 and a separate Text Summrization function.  
-
+<br />
 You can try to implement Text Summury with a Hugging Face function (see the attached file with a Hugging Face model for a Text summury) or implement Text Summury with Words Embeddigns by yourself.
 
 
