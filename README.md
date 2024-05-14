@@ -10,9 +10,10 @@ App Structure:
 <br />
 0. Root Folder Summary App
  1. Folder 'tampletes' (Flask Front End files)
+    <br />
     1.1 'index.html' - file 
-  2. 'Flask.py' -  back end of the app + Hugging Face text summary function
-  3. 
+  3. 'Flask.py' -  back end of the app + Hugging Face text summary function
+
 <br />
 Other resources :
 <br />
