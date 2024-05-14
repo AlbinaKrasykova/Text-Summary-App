@@ -15,7 +15,7 @@ App Structure:
   3. 'Flask.py' -  back end of the app + Hugging Face text summary function
 
 <br />
-**Other resources :
+** Other resources :
 <br />
 - NLP_pipeline - notebook with the code of NLP & ML workflow pipeline with a describtion + Hugging Face implementation.
 - <br />
@@ -30,7 +30,7 @@ You can try to implement Text Summary with a Hugging Face function, Tf-Idf, Word
 <br />
  ----------------------------------------------------------------------------------------
 <br />
-**DEMO
+** DEMO
 <br />
 
 ![image](https://github.com/AlbinaKrasykova/Text-Summary-App/blob/main/Text_Summary_App_Demo_2.gif)
