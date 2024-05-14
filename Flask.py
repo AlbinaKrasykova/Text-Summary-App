@@ -1,5 +1,8 @@
+#Install flask , install neede depdencies for huggin face  + create an enviroment(). 
 from flask import Flask, render_template, request
-from TextSumFunction import final_summary
+from transformers import pipeline
+
+summarizer = pipeline("summarization")
 
 app = Flask(__name__)
 
@@ -8,7 +11,8 @@ def index():
     summary = ''
     if request.method == 'POST':
         text = request.form['UserText']
-        summary = final_summary(text)
+        summary = summarizer(text, max_length=157, min_length=30, do_sample=False)
+        summary = summary[0]['summary_text']
         print(summary)
         
     return render_template('index.html', summary=summary)
