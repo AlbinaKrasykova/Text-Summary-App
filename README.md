@@ -12,9 +12,12 @@ App Structure:
  1. Folder 'tampletes' (Flask Front End files)
     1.1 'index.html' - file 
   2. 'Flask.py' -  back end of the app + Hugging Face text summary function
+  3. 
 <br />
 Other resources :
+<br />
 - NLP_pipeline - notebook with the code of NLP & ML workflow pipeline with a describtion + Hugging Face implementation.
+- <br />
 - Presentation with ML/NLP concepts illustrated, explained + links and other useful resources.
 - <br />
  ----------------------------------------------------------------------------------------
