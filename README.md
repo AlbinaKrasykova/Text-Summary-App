@@ -1,20 +1,25 @@
 # Text-Summary-App
 <br />
 
-Text Summary App with Flask, I have implemented Vectorization with Tf-Idf, created folder tampletes with a index.html (contains front end design files), Flask file with a back end, 
-and a separate Text Summrization function.  
+Text Summary App with Flask & Hugging Face & Html & CSS. 
+
+I have implemented text summary function with the help of Hugging Face pretrained NLP model.
+[Read all the requrments here before running the app here](https://huggingface.co/docs/transformers/en/installation)
+ ----------------------------------------------------------------------------------------
+Structure:
+0. Root Folder Summary App
+ 1. Folder 'tampletes' (Flask Front End files)
+    1.1 'index.html' - file 
+  2. 'Flask.py' -  back end of the app + Hugging Face text summary function 
+ ----------------------------------------------------------------------------------------
 <br />
-You can try to implement Text Summury with a Hugging Face function (see the attached file with a Hugging Face model for a Text summury) or implement Text Summury with Words Embeddigns by yourself.
+You can try to implement Text Summary with a Hugging Face function, Tf-Idf, Word embedings or BoW. Feel Free to build up to the html/css design, add js, or implement the summary function differently. 
 
 
 <br />
 <br />
 <br />
  ----------------------------------------------------------------------------------------
- <br />
-The Text Summary App Structure :
-
-![image](https://github.com/AlbinaKrasykova/Text-Summary-App/assets/91033995/9d68525e-67c4-47d8-8a0a-17032433df7d)
 <br />
 # Text-Summary-App DEMO
 <br />
