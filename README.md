@@ -15,7 +15,7 @@ App Structure:
   3. 'Flask.py' -  back end of the app + Hugging Face text summary function
 
 <br />
-**Other resources :**
+** Other resources :**
 <br />
 - NLP_pipeline - notebook with the code of NLP & ML workflow pipeline with a describtion + Hugging Face implementation.
 - <br />
