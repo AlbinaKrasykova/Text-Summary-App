@@ -4,7 +4,7 @@
 Text Summary App with Flask & Hugging Face & Html & CSS. 
  ----------------------------------------------------------------------------------------
 I have implemented text summary function with the help of Hugging Face pretrained NLP model.
-[Read all the requrments here before running the app here](https://huggingface.co/docs/transformers/en/installation)
+[Read all the requirements here before running the app here](https://huggingface.co/docs/transformers/en/installation)
 <br />
 App Structure:
 <br />
