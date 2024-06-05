@@ -1,6 +1,7 @@
 '''
 1. Install flask in your terminal - > (pip install Flask), 
-then install neede depdencies for huggin face + create an enviroment. Follow the instructions here - > https://huggingface.co/docs/transformers/en/installation
+then install neede depdencies for huggin face + create an enviroment. 
+Follow the instructions here  - > https://huggingface.co/docs/transformers/en/installation
 # 2. import the needed libraries 
 '''
 from flask import Flask, render_template, request
